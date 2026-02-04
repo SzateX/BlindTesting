@@ -1,0 +1,8 @@
+numpy>=2.0.0
+openai-whisper
+pyautogui==0.9.54
+python-dotenv==1.2.1
+pytest==9.0.2
+SoundCard==0.4.5
+--extra-index-url https://download.pytorch.org/whl/cu130
+torch==2.9.1
